@@ -37,5 +37,4 @@ def hello():
 hello()
 ```
 
-```
-![](./123.jpg)
+![](./winne.jpg)
