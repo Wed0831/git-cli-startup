@@ -38,3 +38,6 @@ hello()
 ```
 
 ![](./winne.jpg)
+
+[Go to 1](#1)
+[Go to page A](./a.md)
